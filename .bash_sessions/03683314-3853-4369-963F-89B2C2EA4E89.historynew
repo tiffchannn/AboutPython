@@ -1,0 +1,415 @@
+curl -s https://raw.githubusercontent.com/hackreactor/precourse-pomander/master/bin/install | bash
+git clone https://github.com/tiffchannn/seip2008-javascript-koans.git
+git remote add upstream https://github.com/tiffchannn/seip2008-javascript-koans.git
+git status
+git pull upstream master
+git remote add upstream https://github.com/hackreactor/seip2008-javascript-koans.git
+ls
+git init
+git status
+git pull upstream master
+git status
+ls
+cd seip2008-javascript-koans/
+git remote add upstream https://github.com/hackreactor/seip2008-javascript-koans.git
+git remote
+git pull upstream master
+git status
+curl -s https://raw.githubusercontent.com/hackreactor/precourse-pomander/master/bin/install | bash
+git status
+git diff
+git add
+git add koans/AboutExpects.js
+git status
+git commit
+npm install -g eslint
+sudo npm install -g eslint
+git commit
+git commit
+git commit
+git commit
+git commit
+git status
+git push origin master
+git status
+git diff
+git add koans/AboutExpects.js
+git status
+git commit
+git status
+git push origin master
+git status
+git diff
+git add koans/AboutExpects.js
+git status
+git commit
+git status
+git push origin master
+git status
+git diff
+git add koans/AboutExpects.js
+git status
+git commit
+git status
+git push origin master
+git status
+git diff
+git status
+git diff
+git add
+git add koans/AboutArrays.js
+git status
+git commit
+git status
+git diff
+git add koans/AboutArrays.js
+git status
+git commit
+git status
+git push origin master
+git status
+git diff
+git add koans/AboutArrays.js
+git status
+git commit
+git status
+git push origin master
+git status
+git diff
+git add koans/AboutArrays.js
+git status
+git commit
+git status
+git push origin master
+git status
+git diff
+git add koans/AboutArrays.js
+git status
+git commit
+git status
+git push origin master
+git status
+git diff
+git add
+git add koans/AboutArrays.js
+git status
+git commit
+git status
+git push origin master
+git status
+git diff
+git add koans/AboutArrays.js
+git status
+git commit
+git status
+git push origin master
+git status
+git diff
+git add koans/AboutArrays.js
+git status
+git commit
+git status
+git push origin master
+git status
+git diff
+git add koans/AboutFunctions.js
+git status
+git commit
+git status
+git push origin master
+git status
+git diff
+git add koans/AboutFunctions.js
+git status
+git commit
+git status
+git push origin master
+git status
+git diff
+git add koans/AboutFunctions.js
+git status
+git commit
+git status
+git push origin master
+git status
+git diff
+git add koans/AboutFunctions.js
+git status
+git commit
+git status
+git push origin master
+git status
+git diff
+git status
+git diff
+git status
+git add koans/AboutFunctions.js
+git status
+git commit
+git status
+git push origin master
+git status
+git diff
+git add koans/AboutFunctions.js
+git status
+git commit
+git status
+git push origin master
+git status
+git diff
+git add koans/AboutFunctions.js
+git status
+git commit
+git status
+git push origin master
+git status
+git diff
+git add koans/AboutObjects.js
+git status
+git commit
+git status
+git push origin master
+git status
+git diff
+git add koans/AboutObjects.js
+git status
+git commit
+git status
+git push master origin
+git push origin master
+git status
+git diff
+git add koans/AboutObjects.js
+git status
+git commit
+git status
+git push master origin
+git push origin master
+get status
+git status
+git diff
+git add koans/AboutObjects.js
+git status
+git commit
+git status
+git push origin master
+git status
+git diff
+git add koans/AboutObjects.js
+git status
+git commit
+git status
+git push origin master
+git status
+git diff
+git add koans/AboutObjects.js
+git status
+git commit
+git status
+git push origin master
+add .
+git status
+git add koans/AboutObjects.js
+git commit
+git status
+git commit
+git status
+add .
+git add .
+git commit
+git status
+git add koans/AboutObjects.js
+git commit
+git commit
+git diff
+git add .
+git status
+git diff
+git status
+git diff
+git add koans/AboutObjects.js
+git commit
+git status
+git diff
+git add .
+git commit 
+git hist
+git status
+git add .
+git status
+git diff
+git add koans/AboutObjects.js
+git commit
+curl -s https://raw.githubusercontent.com/hackreactor/precourse-pomander/master/bin/install | bash
+git status
+git add koans/AboutObjects.js
+git commit
+git log
+git status
+git status
+git commit
+git status
+git add koans/AboutObjects.js
+git status
+git commit
+git status
+git diff
+git add koans/AboutObjects.js
+git status
+git commit
+sudo npm install -g eslint
+git status
+git diff
+git status
+git status
+git status
+git diff
+git add koans/AboutExpects.js
+git commit
+git satus
+git status
+git add koans/AboutExpects.js
+git status
+git commit
+git status
+git diff
+git add koans/AboutExpects.js
+git status
+git diff
+git status
+git diff
+git add koans/AboutExpects.js
+git commit
+git status
+git diff
+git add koans/AboutExpects.js
+git commit
+git status
+git push origin master
+git status
+git diff
+git add koans/AboutExpects.js
+git commit 
+git status
+git diff
+git add koans/AboutObjects.js
+git commit
+git status
+git push origin master
+git status
+git status
+git status
+git diff
+git add koans/AboutArrays.js
+git commit
+git status
+git push origin master
+git status
+git diff
+git add koans/AboutFunctions.js
+git commit
+git status
+git push origin master
+git clone https://github.com/tiffchannn/seip2008-testbuilder.git
+git remote add https://github.com/hackreactor/seip2008-testbuilder.git
+ls
+cd seip2008-testbuilder
+git remote
+git status
+curl -s https://raw.githubusercontent.com/hackreactor/precourse-pomander/master/bin/install | bash
+git status
+git diff
+git add detectNetwork.js
+git commit
+git status
+git commit -m "Correctly returned Diner's Club or American Express tests"
+git status
+git diff
+git commit -m "Fixed Diner's Club and American Express tests"
+git status
+git add .
+git push
+git status
+git diff
+git add .
+git add detectNetwork.js
+git status
+git commit -m "Added Visa and Mastercard tests"
+git status
+git add . 
+git commit -m "Added Visa and Mastercard tests"
+git commit -m "Added Visa and Mastercard tests"
+git status
+git add .
+git status
+git commit -m "Fixed spacing and indentations"
+git status
+git push origin master
+git status
+git status
+git diff
+git add detectNetwork.test.js
+git status
+git commit -m "Fixed tests for Diner's Club and American Express"
+git status
+git diff
+git add detectNetwork.test.js
+git commit -m "Fixed American Express and Visa tests"
+git status
+git push origin master
+git status
+git diff
+git add detectNetwork.test.js
+got commit -m "Fixed tests for MasterCard"
+git commit -m "Fixed tests for MasterCard"
+git status
+git push origin master
+git status
+git diff
+git add detectNetwork.js
+git status
+git commit -m "Added tests for Discover and Mastro"
+git status
+git diff
+git add detectNetwork.js
+git status
+git commit -m "Added tests for Discover and Maestro"
+git status
+git push origin master
+git status
+git diff
+git add detectNetwork.test.js
+git status
+git commit -m "Fixed tests for Discover and Maestro"
+git status
+git push origin master
+git status
+git diff
+git add detectNetwork.test.js
+git commit -m "Corrected tests to include all prefixes and lengths for MCredit Cards"
+git status
+git diff
+git add .
+git commit -m "Updated tests to check for all combinations for prefixes and lengths"
+git status
+git push origin master
+git status
+git diff
+git add detectNetwork.test.js
+git status
+git commit -m "Updated tests for all combinations of credit card prefixes and lengths"
+git status
+git push origin master
+git status
+git diff
+git add  detectNetwork.js
+git status
+git commit -m "Updated variables to clean up readability"
+git status
+git push origin master
+git status
+git diff
+git add detectNetwork.test.js
+git status
+git commit -m "Assignment Complete"
+git push origin master

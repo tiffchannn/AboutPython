@@ -1,0 +1,8 @@
+ls
+git clone https://github.com/tiffchannn/hrla39-underbar-review.git
+ls
+cd hrla39-underbar-review
+git remote add pair https://github.com/timkang93/hrla39-underbar-review.git 
+git remote add upstream https://github.com/hackreactor/hrla39-underbar-review.git
+code .
+code .

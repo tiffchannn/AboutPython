@@ -1,0 +1,453 @@
+/Applications/Spotify.app/Contents/MacOS/Spotify ; exit;
+ls
+ls -a
+ls
+cd Desktop
+ls
+cd
+cd Desktop
+cd ..
+ls -a
+ls -a
+node
+node
+ls -a
+mkdir Code
+ls -a
+cd Code
+ls -a
+mkdir premium-prep
+cd premium-prep
+ls -a
+node index.js
+node index.js
+cd
+ls -a
+ls
+cd code
+ls
+cd premium-prep
+ls
+node.js
+node
+node index.js
+cd
+ls -a
+cd Code
+ls -a
+cd premium-prep/
+ls -a
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+ls
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+ls
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+cd ~/Documents
+ls
+man[RezWack]
+man[moose-outdated]
+man[!]
+man[mmroff]
+cd ~/School Files
+cd ~/My Pictures
+cd ~/Downloads
+/Users/tiffanychan/Desktop/Grad\ School\ Files 
+cdmkdir"TerminalTest"
+mkdir"TerminalTest"
+ls
+cd ~/Documents
+mkdir"TerminalTest"
+mkdir"TerminalTest"
+cd ~/Documents
+ls
+cd ~/Downloads/
+curl-O[https://macpaw.com/how-to/use-terminal-on-mac]
+curl -O [https://macpaw.com/how-to/use-terminal-on-mac]
+defaults write com.apple.screencapture location[Screenshots]
+defaults write com.apple.screencapture location ~/Documents/Screenshots
+killall SystemUIServer
+cd ~/Documents
+ls
+man ls
+man cd
+man cd
+man rm
+ls
+cd Desktop/
+git clone https://github.com/tiffchannn/You-Dont-Know-JS.git
+$ git --version
+h
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.0/install.sh | bash
+nvm --version
+export NVM_DIR="/Users/tiffanychan/.nvm"
+nvm --version
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.0/install.sh | bash
+nvm --version
+nvm --version
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.0/install.sh | bash
+export NVM_DIR="/Users/tiffanychan/.nvm"
+nvm --version
+nvm install --lts
+nvm use --lts
+export NVM_DIR="/Users/tiffanychan/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" 
+nvm --version
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.0/install.sh | bash
+export NVM_DIR="/Users/tiffanychan/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+export NVM_DIR="/Users/tiffanychan/.nvm"
+nvm --version
+nvm install --lts
+nvm use --lts
+node --version
+npm --version
+sudo npm install -g eslint@6.8.0
+$ git --version
+cd ~/Documents
+ls
+cd
+mkdir "TerminalTest"
+cd ~/Documents
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+brew install ruby
+ruby -v
+ls
+cd work
+cd git_tutorial
+cd work
+ls
+hello.rb
+cd hello
+hello.rb
+export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+cd git_tutorial
+cd work
+ls
+hello.rb
+cd hello
+hello.rb
+git init
+git add hello.rb
+hello.rb
+ruby -v
+gem --version
+export PATH="/usr/bin:/bin:/usr/sbin:/sbin"
+export PATH="/usr/local/bin:/usr/local/sbin:$PATH"
+hello.rb
+puts "Hello, World"
+touch hello.rb
+echo puts > hello.rb
+echo puts "Hello, World" > hello.rb
+git init
+ls
+ls -a
+git add hello.rb
+git status
+git commit -m "First Commit"
+git status
+git log
+git status
+git add hello.rb
+git status
+git log
+git status
+git commit -m "Added quotes"
+git log
+git add hello.rb
+git status
+git commit -m "Added a default value"
+git status
+git add .
+git status
+git commit -m "Added a comment"
+git log
+git log --pretty=oneline
+git log --pretty=oneline --max-count=2
+man git-log
+git log --pretty=oneline --since='5 minutes ago'
+cd hello
+ls
+git_tutorial
+cd git_tutorial
+cd hello
+cd work
+cd hello
+git hist
+.gitconfig
+ls
+[alias]
+.gitconfig
+git config --global alias.co checkout
+got config --global alias.br branch
+git config --global alias.br branch
+git config --global alias.ci commit
+git config --global alias.st status
+git config --global alias.type cat-file -t
+git config --global alias.dump cat-file -p
+git hist
+git config --global alias.hist log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+git hist
+git config --global alias.hist = log --pretty=format:|--pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+git log
+git checkout <hash>
+ls
+cd git_tutorial
+cd work
+cd hello
+git checkout <hash>
+git.co
+git co
+git status
+git hist
+ls
+cd home
+cd work
+git --help
+git status
+git add <file>
+git add hello.rb
+git commit -m "Oops, we didn't want this commit"
+git revert HEAD
+git commit -m "Unintentional Commit"
+git status
+git commit -a
+ls
+git config --global alias.hist "log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short"
+cd git_tutorial
+cd work
+cd hello
+git hist
+git checkout <hash>
+git checkout <1a4f509>
+git checkout <1a4f509>
+cat hello.rb
+git checkout master
+cat hello.rb
+git tag v1
+git checkout v1^
+git checkout v1~1
+git hist
+git checkout <1a4f509>
+git checkout
+cat hello.rb
+git checkout <2d95ccb>
+get checkout master
+git checkout master
+git status
+git checkout hello.rb
+git co hello.rb
+git status
+cat hello.rb
+git add hello.rb
+git status
+git checkout --.DS_Store
+git reset HEAD hello.rb
+git checkout hello.rb
+git status
+git status
+git hist
+git add hello.rb
+git commit -m "Oops, we didn't want this commit"
+git revert HEAD
+git checkout 1a4f509
+rm .DS_Store
+git status
+git checkout hello.rb
+git status
+git add hello.rb
+git status
+git commit -m "Deleted DS Store"
+git status
+git add .
+git status
+git commit -m "Deleted DS Store"
+git log
+ls
+cd git_tutorial
+ls
+cd work
+git clone git://localhost/hello.git network_hello
+cd network_hello
+ls
+ls
+ls git_tutorial
+ls work
+cd work
+ls work
+ls hello
+cd hello
+cd git_tutorial
+cd work
+git clone hello cloned_hello
+ls
+cd cloned_hello
+ls
+git hist --all
+git remote
+git remote show origin
+git branch
+git branch -a
+cd ../hello
+git add README
+cd ../cloned_hello
+git fetch
+hist --all
+git hist
+cat README
+git branch --track greet origin/greet
+git branch -a
+git hist --max-count=2
+cd ..
+git clone --bare hello hello.git
+ls hello.git
+cd hello
+git remote add shared ../hello.git
+cd work
+cd ..
+#
+git daemon --verbose --export-all --base-path=.

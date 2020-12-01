@@ -1,0 +1,9 @@
+ls
+cd hrla39-grocery-list
+code .
+cd ..
+ls
+cd desktop
+git clone https://github.com/hackreactor/hrla39-grocery-list.git
+cd .
+ls

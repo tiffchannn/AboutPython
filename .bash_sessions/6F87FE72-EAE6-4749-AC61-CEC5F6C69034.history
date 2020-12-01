@@ -1,0 +1,512 @@
+git status
+code .
+git status
+git add evenOccurrence/evenOccurrence.js
+git commit -m "Implemented code for evenOccurrence"
+git push origin master
+ls
+cd hrla39-n-queens
+code .
+code .
+cd~
+cd /
+ls
+cd
+ls
+cd hrla39-n-queens
+code .
+ls
+cd hrla39-n-queens
+code .
+git pull nick master
+ls
+cd hrla39-n-queens
+git pull nick master
+git push origin master
+ls
+cd tree-map
+ls
+node tree-map.js 
+node 
+node tree-map.js 
+node tree-map.js 
+node tree-map.js 
+ls
+cd ~
+ls
+cd hrla39-self-assessment-week-01-v3 
+git status
+git add tree-map/tree-map.js
+git commit -m "Updated code to successfully implement mapping function for tree"
+git status
+git add tree-map/tree-map.js
+git commit -m "Updated code to successfully implement mapping function for tree"
+git push origin master
+git status
+git add hashTableResizing/hashTableResizing.js 
+git commit -m "Implemented code for hashTableResizing"
+git push origin master
+git status
+git add hashTableResizing/hashTableResizing.js 
+git commit -m "Updated code to include resizing"
+git push origin master
+ls
+cd hrla39-toy-problems
+git checkout master
+git pull upstream master
+code .
+git status
+git status
+git add .
+git commit -m "Implemented push, pop, size and min functions for Stack"
+git push origin master
+code .
+ls
+cd hrla39-data-structures/
+code.
+code .
+git status
+git add .
+git commit -m "Identified time complexity for all functions within algo-time-complexity"
+git status
+git add js-inheritance-pseudo-classical-alt/js-inheritance-pseudo-classical-alt.js
+git commit -m "Started reconfiguring functions into pseudoclassical instantiation"
+git status
+git add chat-client-fixme-components/js/MessagesView.js
+git commit -m "Added pseudocode, unsuccessful in implementing code"
+git status
+git add README.md
+git commit -m "Added self-grading"
+git push origin master
+code .
+code .
+code .
+git status
+git add .
+git commit -m "Reconfigured makeHorse and makeFlyingHorse to utilize subclassing"
+git status
+git push origin master
+code .
+code .
+ls
+git clone HRLA39 Tiffany Chan is inviting you to a scheduled Zoom meeting.
+Topic: HRLA39 Tiffany Chan's Personal Meeting Room
+
+Join Zoom Meeting
+https://us04web.zoom.us/j/4396045586?pwd=OC9RakFLTlV0RmlJa0ZDS0VpVE51UT09
+
+Meeting ID: 439 604 5586
+Passcode: 3cruvq
+
+:wq
+npm install -g live-server
+live-server
+git status
+git add .
+git commit -m "Implemented code for bubbleSort toy problem"
+git status
+git push origin master
+ls
+cd hrla39-toy-problems/
+git checkout master
+git pull upstream master
+code .
+npm install -g live-server
+git status
+git add .
+git commit -m "Implemented code for quicksort toy problem"
+git status
+git push origin master
+git status
+git add .
+git commit -m "Fixed function naming errors"
+git status
+git push origin master
+ls
+cd hrla39-toy-problems/
+git checkout master
+git pull upstream master
+code .
+code .
+code .
+ls
+git clone https://github.com/hackreactor/hrla39-recast.ly.git
+cd hrla39-grocery-list/
+git status
+git push jeff master
+code .
+npm install
+npm run build
+npm run build
+npm start
+code .
+git status
+git add insertionSort/insertionSort.js
+git commit -m "Implemented code for insertionSort toy problem"
+git push origin master
+ls
+cd hrla39-toy-problems/
+git pull upstream master
+code .
+code .
+code .
+code .
+code .
+ls
+cd documents
+git clone https://github.com/amanda-post/amandas-react-workshop.git
+ls
+cd amandas-react-workshop/
+code .
+npm install
+npm install
+npm start
+npm run start
+npm run start
+npm install
+npm run build 
+code .
+npm start
+ls
+cd client
+npm start
+npm install
+npm start
+cd ~
+ls
+cd hrla39-a-synchronous-swim/
+ls
+cd server
+npm start
+npm run server --
+npm install
+npm start
+npm run server--
+npm install
+ls
+npm run server
+git status
+add .
+git commit -m "Implemented code for shuffleDeck toy problem"
+add .
+git add .
+git commit -m "Implemented code for shuffleDeck toy problem"
+git push origin master
+git pull upstream master
+code .
+ls
+git clone https://github.com/tiffchannn/hrla39-a-synchronous-swim.git
+ls
+cd hrla39-a-synchronous-swim
+git remote add jason https://github.com/JasonHong1998/hrla39-a-synchronous-swim
+git remote add upstream https://github.com/hackreactor/hrla39-a-synchronous-swim.git
+git remote
+code .
+cd ~
+ls
+cd hrla39-a-synchronous-swim/
+ls
+cd server
+npm start
+npm start
+npm run server
+npm start
+npm run server --
+ls
+cd client
+npm start
+cd ~
+cd server
+
+cd server
+npm run start
+npm run server
+ npm run test
+npm run test
+npm run test
+/
+npm run server
+npm run test
+npm run test
+npm run server
+npm run test
+npm run test
+cd client
+npm run start
+git status
+git add .
+git commit -m "Added get and post request within httpHandler server side"
+git status
+git push origin master
+git push jason master
+ls
+git push pair master
+ls
+cd hrla39-a-synchronous-swim
+code .
+code .
+code .
+ls
+cd react-pond
+npm install
+npm start
+ls
+cd node-req-count/
+node index.js
+code .
+code .
+code .
+ls
+git clone https://github.com/tiffchannn/hrla39-self-assessment-week-03-v7.git
+ls
+cd hrla39-self-assessment-week-03-v7
+code .
+git status
+git add . 
+git commit -m "Implemented code for react pond, did not successfully attempt  node req count"
+git status
+git push origin master
+git status
+git add .
+git commit -m "Made revisions to update algo time complexity, js inheritance patterns and chat client files"
+git status
+git push origin master
+code .
+git remote add alvin https://github.com/Alvindelito/hrla39-cruddy-todo
+git remote
+git remote add upstream https://github.com/hackreactor/hrla39-cruddy-todo.git
+git pull alvin master
+git status
+git add allAnagrams/allAnagrams.js
+git commit -m "Implemented code for allAnagrams"
+git status
+git push origin master
+npm install
+ls
+git clone https://github.com/tiffchannn/hrla39-sqool.git
+ls
+cd hrla39-sqool
+code .
+which sqlite3
+brew install sqlite3
+ls
+sqlite3 school.db.
+sqlite3 school.db.
+ls
+cd react-pond
+npm run start
+cd ~
+ls
+cd hrla39-self-assessment-week-03-v7
+ls
+cd node-req-count/
+code .
+which mysql
+mysql_config --version
+brew install mysql@5.7,
+brew install mysql@5.7
+/usr/local/opt/mysql@5.7/bin/mysql.server start
+mysql.server status
+code .
+code .
+cd ..
+ls
+git clone https://github.com/tiffchannn/hrla39-databases.git
+ls
+cd hrla39-databases
+code .
+git remote add alvin https://github.com/Alvindelito/hrla39-databases.git
+git remote add upstream https://github.com/hackreactor/hrla39-databases.git
+which mysql
+ls
+cd school.db
+cd ~
+ls
+cd hrla39-sqool
+code .
+which sqlite3
+sqlite3 school.db
+sqlite3
+sqlite3 school.db
+sqlite3 school.db
+curl 127.0.0.1:8000/dogs
+curl -X POST 127.0.0.1:8000/dogs
+npm run start
+which mysql
+mysql -u
+mysql -u root
+export PATH=$PATH:/usr/local/mysql/bin
+mysql -u root
+mysql -u root
+ls
+cd node-req-count/
+node index.js
+curl 127.0.0.1:8000/dogs
+node index.js
+curl -X POST 127.0.0.1:8000/dogs
+node index.js
+curl
+curl --manual
+curl -X POST 127.0.0.1:8000/dogs
+npm status
+curl
+curl --help
+ls
+cd node-req-count/
+node index.js
+curl 127.0.0.1:8000/dogs
+curl -X POST 127.0.0.1:8000/dogs
+curl 127.0.0.1:8000/dogs
+GET
+curl -X POST 127.0.0.1:8000/dogs
+curl -X POST 127.0.0.1:8000/dogs
+curl -X POST 127.0.0.1:8000/dogs
+curl 127.0.0.1:8000/dogs
+GET
+POST
+:wq
+curl -X POST 127.0.0.1:8000/dogs
+ls
+cd node-req-count/
+node index.js
+curl 127.0.0.1:8000/dogs
+curl -X POST 127.0.0.1:8000/dogs
+git status
+git add ../react-pond//src/components/FishTable.js
+git add ../react-pond/src/components/FishTableRow.js
+git commit -m "Made revisions to successfully render new fish"
+git add server.js 
+git commit -m "Updated server.js for GET and POST requests"
+git status
+git push origin master
+code .
+git pull alvin master
+which mysql
+mysql.server status
+brew install mysql@5.7
+which mysql
+mysql_config --
+mysql_config -- version
+which mysql from inside the terminal.
+which mysql
+mysql
+launchctl
+which mysql
+$ brew tap homebrew/services
+brew tap homebrew/services
+brew services start mysql@5.7
+brew services list
+mysql -V
+brew link mysql@5.7 --force
+mysql -V
+mysql.server status
+mysql.server start
+mysql -u student -p
+mysql -u student -p
+mysql -u rootroot  -p
+mysql -u  -p
+mysql -u  root -p
+mysql -u  rootroot -p
+mysql -u  rootroot -p
+mysqladmin -u root password 'rootroot'
+mysqladmin -u root password rootroot
+mysql -u  root -p
+mysqladmin -u root password root
+mysql -u  root -p
+mysql -u  rootroot -p
+mysql -u  rootroot -p
+mysql -u  rootroot -p
+mysql -u  rootroot -p
+mysql -u  rootroot -p
+mysql -u  roootrooot -p
+sudo sudo mysql -u  rootroot -p
+sudo sudo mysql -u  roootrooot -p
+sudo /usr/local/mysql/support-files/mysql.server start
+which mysql
+mysql_config --version
+ls
+code .
+sudo /usr/local/mysql/support-files/mysql.server start
+npm run connect;
+cd database/
+ls
+mysql -u  root  -p <schema.sql
+npm install
+mysql -u rootroot -p
+mysql -u root -p
+git clone https://github.com/tiffchannn/mySQLReview.git
+ls
+cd mySQLReview
+code .
+cd ~
+ls
+cd hrla39-promises
+code .
+git remote add alphina https://github.com/alphinaa/hrla39-promises
+git remote add upstream https://github.com/hackreactor/hrla39-promises.git
+git status
+git add powerSet/powerSet.js 
+git commit -m "Implemented code for powerSet"
+git status
+git push origin master
+npm run postinstall
+npm start
+npm test
+npm start
+npm test
+npm start
+npm test
+npm start
+npm test
+npm test
+npm start
+npm test
+npm start
+npm start
+npm test
+npm test
+npm start
+npm start
+git status
+git add . 
+git commit -m "Added functionality for user login to check if username and password exist"
+git status
+git add server/app.js 
+git add server/middleware/cookieParser.js 
+git commit -m "Added functionality for user login to check if username and password exist"
+git push origin master
+git push alvin master
+npm start
+npm run start
+npm test
+npm install
+npm run
+npm run start
+npm test
+npm install -g nodemon
+npm start
+npm start
+npm test
+npm test
+npm start
+npm test
+mysql -u root -p
+git status
+git pull alphina master
+git status
+git pull alphina master
+git add *
+git stash
+git pull
+ls
+cd hrla39-promises
+code .
+git pull alphina master
+git status
+git restore exercises/bare_minimum/basicChaining.js
+git status
+git pull alphina master
+git restore package-lock.json
+git status
+git pull alphina master
+code .

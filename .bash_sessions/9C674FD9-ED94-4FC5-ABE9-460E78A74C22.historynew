@@ -1,0 +1,9 @@
+ls
+git clone https://github.com/tiffchannn/hrla39-toy-problems.git
+git remote add upstream https://github.com/hackreactor/hrla39-toy-problems.git
+ls
+cd hrla39-toy-problems
+git remote add upstream https://github.com/hackreactor/hrla39-toy-problems.git
+code .
+git status
+code .

@@ -1,0 +1,12 @@
+ls
+cd documents
+git clone https://github.com/hackreactor/hrla39-recast.ly.git
+ls
+cd hrla39-recast.ly/
+code .
+git status
+git add .
+git commit -m "Passed tests for videoListEntry and videoList"
+git status
+git add .
+git commit -m "Passed tests for videoListEntry and videoList"

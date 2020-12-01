@@ -1,0 +1,7 @@
+ls
+cd hrla39-n-queens
+code .
+git pull pair master
+git push origin master
+git status
+git status

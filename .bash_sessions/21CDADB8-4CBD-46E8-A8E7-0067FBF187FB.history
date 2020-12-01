@@ -1,0 +1,34 @@
+/Applications/Spotify.app/Contents/MacOS/Spotify ; exit;
+ls
+ls -a
+ls
+cd Desktop
+ls
+cd
+cd Desktop
+cd ..
+ls -a
+ls -a
+node
+node
+ls -a
+mkdir Code
+ls -a
+cd Code
+ls -a
+mkdir premium-prep
+cd premium-prep
+ls -a
+node index.js
+node index.js
+cd
+ls -a
+ls
+cd code
+ls
+cd premium-prep
+ls
+node.js
+node
+node index.js
+cd

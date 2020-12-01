@@ -1,0 +1,237 @@
+/Applications/Spotify.app/Contents/MacOS/Spotify ; exit;
+ls
+ls -a
+ls
+cd Desktop
+ls
+cd
+cd Desktop
+cd ..
+ls -a
+ls -a
+node
+node
+ls -a
+mkdir Code
+ls -a
+cd Code
+ls -a
+mkdir premium-prep
+cd premium-prep
+ls -a
+node index.js
+node index.js
+cd
+ls -a
+ls
+cd code
+ls
+cd premium-prep
+ls
+node.js
+node
+node index.js
+cd
+ls -a
+cd Code
+ls -a
+cd premium-prep/
+ls -a
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+node fashion.js
+ls
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+node toyproblems.js
+ls
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+node index.js
+cd ~/Documents
+ls
+man[RezWack]
+man[moose-outdated]
+man[!]
+man[mmroff]
+cd ~/School Files
+cd ~/My Pictures
+cd ~/Downloads
+/Users/tiffanychan/Desktop/Grad\ School\ Files 
+cdmkdir"TerminalTest"
+mkdir"TerminalTest"
+ls
+cd ~/Documents
+mkdir"TerminalTest"
+mkdir"TerminalTest"
+cd ~/Documents
+ls
+cd ~/Downloads/
+curl-O[https://macpaw.com/how-to/use-terminal-on-mac]
+curl -O [https://macpaw.com/how-to/use-terminal-on-mac]
+defaults write com.apple.screencapture location[Screenshots]
+defaults write com.apple.screencapture location ~/Documents/Screenshots
+killall SystemUIServer
+cd ~/Documents
+ls
+man ls
+man cd
+man cd
+man rm
+ls
+cd Desktop/
+git clone https://github.com/tiffchannn/You-Dont-Know-JS.git
+$ git --version
+h
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.0/install.sh | bash
+nvm --version
+export NVM_DIR="/Users/tiffanychan/.nvm"
+nvm --version
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.0/install.sh | bash
+nvm --version
+nvm --version
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.0/install.sh | bash
+export NVM_DIR="/Users/tiffanychan/.nvm"
+nvm --version
+nvm install --lts
+nvm use --lts
+export NVM_DIR="/Users/tiffanychan/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" 

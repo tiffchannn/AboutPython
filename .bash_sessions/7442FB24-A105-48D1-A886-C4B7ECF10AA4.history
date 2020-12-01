@@ -1,0 +1,502 @@
+cd hrla39-promises
+code .
+git pull alphina master
+git status
+git restore exercises/bare_minimum/basicChaining.js
+git status
+git pull alphina master
+git restore package-lock.json
+git status
+git pull alphina master
+code .
+npm start
+git pull alvin master
+code .
+ls
+cd hrla39-shortly-express
+code .
+cd ~
+ls
+cd hrla39-promi
+cd hrla39-promises
+code .
+code .
+code .
+cd ..
+ls
+cd hrla39-shortly-expres
+ls
+cd hrla39-shortly-express
+code .
+cd ..
+ls
+cd hrla39-promises
+code .
+cd ..
+ls
+git clone https://github.com/tiffchannn/hrla39-self-assessment-week-04-v5.git
+ls
+cd hrla39-self-assessment-week-04-v5
+code .
+ls
+cd node-express-sequelize
+npm install --save sequelize
+npm install --save sqlite3
+npm start
+npm install --save sequelize
+npm install --save sqlite3
+npm start
+npm run
+git status
+git add server.js 
+git commit -m "Added pseudocode and some code"
+cd .
+cd ..
+git status
+git add .
+git status
+git status
+git add README.md 
+git commit -m "Updated grading outline"
+git status
+git push origin master
+ls
+cd async-word-count
+npm install
+node.js npm run
+npm run
+npm start
+git status
+git add async-word-count.js 
+git commit -m "Psuedocoded and implemeted code for getWordCount"
+cd .
+cd ..
+ls
+cd authentication
+git status
+git add README.md 
+git commit -m "Completed responses for authentication"
+cd ..
+ls
+cd node-express-sequelize
+npm start
+npm install
+npm start
+ls
+npm install
+mysql -u root -p
+mysql -u root -p
+mysql -u root -p
+which mysql
+brew services list
+mysql -V
+mysql -u root -p
+mysql -u root -p
+mysqladmin -u root password rootroot
+mysql -u  -p
+mysql -u  root  -p
+mysql -u root  -p
+mysql -u root  -p
+mysql -u rootroot  -p
+mysql -u root
+mysql -u rootroot  -p
+mysql -u root -p
+mysql -u root
+mysqladmin -u root password rootroot
+mysqladmin -u root password
+sudo /usr/local/mysql/support-files/mysql.server start
+sudo /usr/local/mysql/support-files/mysql.server stop
+sudo mysqld_safe --skip-grant-tables
+npm run connect
+npm run connect;
+npm run connect;
+cd database/
+ls
+mysql -u root -p
+mysql -u root -p
+cd database
+mysql -u root -p 
+mysql -u root -p <schema.sql
+node seed.js
+npm run start
+code .
+cd ..
+git clone const express = require('express');
+const bodyParser = require('body-parser');
+const morgan = require('morgan');
+const cors = require('cors');
+const path = require('path');
+const router = require('./router.js');
+const app = express();
+const port = 3333;
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({extended:true}));
+app.use(morgan('dev'));
+git clone https://github.com/tiffchannn/welp.git
+ls
+cd welp
+code .
+cd ..
+cd hrla39-self-assessment-week-04-v5
+code .
+cd ..
+ls
+cd mySQLReview
+code .
+mysql -u root -p
+npm run start
+npm run build
+npm init
+code .
+code .
+npm install cors
+npm install morgan
+npm install body-parser
+npm install cors
+npm install axios
+npm install nodemon
+npm install
+npm run start
+npm run start
+npm run start
+npm install
+npm run init-database
+npm run start
+git status
+git add treeDFSelect/treeDFSelect.js 
+git commit -m "Implemented code for treeDFSelect"
+git push origin master
+code .
+cd ..
+ls
+cd hrla39-
+code .
+cd ..
+ls
+cd hrla39-toy-problems
+git pull upstream master
+code .
+ls
+cd hrla39-self-assessment-week-04-v5
+code .
+ls
+cd database
+ls
+node db.js
+npm run build
+npm run build
+npm run build
+npm run build
+npm run build
+npm run start
+npm run start
+ls
+mysql -u root -p <schema.sql
+ls
+mysql -u root -p
+code .
+code .
+ls
+cd hrla39-grocery-list
+code .
+code .
+la
+la
+ls
+git clone https://github.com/hackreactor/hrla39-grocery-list.git
+code .
+ls
+cd hrla39-grocery-list
+code .
+mkdir db.js
+ls
+mkdir client
+ls
+mkdir server
+cd server
+mkdir index.js
+ls
+mkdir controller.js
+mkdir router.js
+cd.
+cd .
+ls
+cd ..
+ls
+cd client
+mkdir components
+ls
+mkdir src
+mkdir dist
+ls
+cd src
+mkdir components
+ls
+cd ..
+cd ...
+cd .
+git status
+git add binarySearchArray/binarySearchArray.js 
+git commit -m "Implemented code for binarySearchArray"
+git status
+git push origin master
+npm install
+npm install axios
+npm install morgan
+npm install nodemon
+npm start
+npm install cors
+npm run start
+npm install body-parser
+npm start
+npm install @babel/cli @babel/core @babel/preset-react
+ npm install @babel/cli @babel/core @babel/preset-react
+npm install
+npm init
+npm install @babel/cli @babel/core @babel/preset-react
+npm install @babel/cli @babel/core @babel/preset-react
+npm install -D babel-loader @babel/core @babel/preset-env webpack
+npm run init
+mkdir my-npm-pkg && cd my-npm-pkg
+git init
+npm init
+npm run build
+npm init
+npm init
+code .
+cd ..
+ls
+cd hrla39-react-components
+code .
+mysql -u root -p <schema.sql
+mysql -u root -p <schema.sql
+show databases;
+show database;
+use table;
+show database;
+mysql -u root -p
+npm run start
+npm install --save-dev babel-loader @babel/core
+npm install --save-dev @babel/core @babel/cli
+npm install -D babel-loader @babel/core @babel/preset-env webpack
+ls
+clear
+npm install @babel/cli @babel/core @babel/preset-react
+npm install @babel/cli @babel/core @babel/preset-react
+./node_modules/.bin/babel client --out-dir public --presets @babel/preset-react --source-maps inline
+npm install @babel/cli @babel/core @babel/preset-react
+npm install
+./node_modules/.bin/babel client --out-dir public --presets @babel/preset-react --source-maps inline
+npm install --save-dev babel-watch
+ls
+mkdir schema.sql
+npm install mysql
+npm start
+npm start
+npm run start
+killallnode
+killall node
+npm start
+npm run start
+mysql -u root -p <schema.sql;
+show databases;
+ls
+cd schema.sql
+cd schema.sql;
+show databases;
+show databases;
+show databases;
+mysql -u root -p
+ls
+cd hrla39-toy-problems
+git pull upstream master
+code .
+cd..
+cd ..
+ls
+cd
+npm run watch
+npm run build
+git status
+npm start
+npm start
+npm build
+npm run build
+npm start
+npm start
+npm run build
+npm start
+npm run build
+npm start
+mysql -u root -p
+mysql -u root -p
+npm start
+npm run build
+npm run start
+npm start
+npm run build
+npm run build
+npm start
+npm run build
+npm run build
+mysql -u root -p <schema.sql
+mysql -u root -p <schema.sql
+show databases;
+mysql -u root -p
+npm start
+npm install
+npm init
+npm install express --save
+npm install cors
+ npm install morgan
+npm install path
+npm install body-parsert
+npm install body-parser
+npm install router
+npm install webpack --save-dev
+npm install webpack-cli --save-dev
+npm install babel-loader @babel/core @babel/preset-env @babel/preset-react --save-dev
+npm run react-dev
+npm run build
+npm run build
+npm install axios
+npm start
+npm start
+npm install mysql
+npm start
+npm start
+mysql -u root -p <schema.sql
+show databases;
+mysql -u root -p
+mysql -u root -p <schema.sql;
+mysql -u root -p <schema.sql;
+show databases;
+show database;
+mysql -u root -p
+npm start
+npm start
+mysql -u root -p <schema.sql
+show databases;
+mysql -u root -p
+git status
+git add deepEquality/deepEquality.js 
+git commit -m "Implemented code for deepEquality"
+git push origin master
+npm run build
+npm start
+killall node
+npm start
+npm start
+npm run build
+npm run build
+npm run build
+code .
+cd ..
+ls
+cd multistepcheckout
+code .
+npm start
+npm run build
+ls
+cd miltu
+cd multistepcheckout
+code .
+cd ..
+brew tap mongodb/brew
+brew install mongodb-community@4.4
+brew services start mongodb-community@4.4
+ps aux | grep -v grep | grep mongod
+mongo
+brew services start mongodb-community@4.4
+ps aux | grep -v grep | grep mongod
+mongo
+npm install -g webpack
+npm install
+npm run react-dev
+npm init
+npm install -g webpack
+npm install
+npm install --save-dev webpack
+npm install -g webpack
+npm install
+npm run react-dev
+npm run build
+npm start
+code .
+brew services start mongodb-community@4.4
+ps aux | grep -v grep | grep mongod
+mongo
+npm install -g webpack
+npm install
+npm install webpack --save-dev
+npm install webpack-cli --save-dev
+npm init
+npm install -g webpack
+npm install
+npm install webpack --save-dev
+npm install webpack-cli --save-dev
+npm run react-dev
+npm build
+git remote add upstream https://github.com/hackreactor/hrla39-fullstack-review.git
+brew services start mongodb-community@4.4
+ps aux | grep -v grep | grep mongod
+mongo
+npm install morgan
+npm install cors
+git status
+git add helpers/github.js 
+git commit -m "working on connection github api"
+git add client/src/components/Search.jsx 
+git commit -m "Added in search functionality"
+git status
+git add client/src/components/RepoList.jsx 
+git commit -m "Working on incorporating dynamic component"
+git status
+git add client/src/index.jsx 
+git commit -m "Added event handlers and event listeners"
+git status
+git add database/index.js 
+git commit -m "Working on bringing in mongo"
+git status
+git add package.json 
+git commit -m "Added dependencies"
+git add server/index.js 
+git commit -m "Working on adding get and post request functionality"
+git status
+git push origin master
+npm install -g webpack
+npm install
+npm run react-dev
+npm install mongoose --save
+npm run build
+npm start
+npm run build
+npm run build
+code .
+code .
+cd ..
+git clone https://github.com/tiffchannn/hrla39-fullstack-review.git
+ls
+cd hrla39-fullstack-review
+code .
+cd ..
+ls
+git clone https://github.com/tiffchannn/hrla39-mini-apps-1.git
+ls
+cd hrla39-mini-apps-1
+code .
+git remote add upstream https://github.com/hackreactor/hrla39-mini-apps-1.git
+npm start
+npm start
+npm start
+sqlite3 school.db
+.schema jobs;
+sqlite3 school.db
+sqlite3 school.db
+sqlite3 school.db
+.schema students
+.schema school
+.schema .table
+git clone https://github.com/hackreactor/hrla39-grocery-list.git
+git clone https://github.com/hackreactor/hrla39-grocery-list.git
+code .

@@ -1,0 +1,8 @@
+ls
+cd seip2008-underbar
+git status
+git add src/underbar.js
+git diff
+git commit -m "Updated reduce to pass last test"
+git status
+git push origin master

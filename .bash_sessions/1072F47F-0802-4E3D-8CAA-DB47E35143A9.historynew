@@ -1,0 +1,25 @@
+ls
+git clone https://github.com/tiffchannn/hrla39-shortly-express.git
+ls
+cd hrla39-shortly-express
+code .
+open ./docs/index.html
+git remote add alvin https://github.com/Alvindelito/hrla39-shortly-express.git
+git remote add upstream https://github.com/hackreactor/hrla39-shortly-express.git
+git status
+git add .
+git commit -m "Added functinality for creating users and logging in users"
+git status
+git add server/app.js
+git commit -m "Added functinality for creating users and logging in users"
+git status
+git add server/app.js
+git commit -m "Added functinality for creating users and logging in users"
+git push origin master
+git push alvin master
+cd .
+cd ..
+ls
+cd hrla39-toy-problems
+git pull upstream master
+code .

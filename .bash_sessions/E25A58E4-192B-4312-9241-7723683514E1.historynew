@@ -1,0 +1,16 @@
+ls
+git clone https://github.com/tiffchannn/hrla39-cruddy-todo.git
+ls
+cd hrla39-cruddy-todo
+code .
+cd ~
+cd hrla39-toy-problems
+git pull upstream master
+code .
+cd ~
+ls
+git clone https://github.com/tiffchannn/hrla39-promises.git
+ls
+cd hrla39-promises
+code .
+git remote add upstream https://github.com/hackreactor/hrla39-promises.git

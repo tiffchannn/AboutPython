@@ -1,0 +1,11 @@
+code .
+cd .
+cd ..
+ls
+cd documents
+ls
+cd hrla39-recast.ly
+code .
+cd ..
+cd .
+cd ...

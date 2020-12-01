@@ -1,0 +1,7 @@
+ls
+cd documents
+ls
+cd hrla39-recast.ly
+code .
+git status
+git add .

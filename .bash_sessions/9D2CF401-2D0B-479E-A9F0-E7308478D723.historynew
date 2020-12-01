@@ -1,0 +1,8 @@
+ld
+ls
+cd hrla39-beesbeesbees
+git remote
+git remote add upstream https://github.com/hackreactor/hrla39-beesbeesbees.git
+npm install
+npm audit
+npm install mocha@8.1.1

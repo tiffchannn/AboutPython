@@ -1,0 +1,14 @@
+git config --global core.autocrlf input
+git config --global core.safecrlf true
+ruby -v
+$ brew install ruby
+ruby -v
+mkdir hello
+cd hello
+git init
+git add hello.rb
+mkdir hello
+cd hello
+git init
+git add hello.rb
+ls

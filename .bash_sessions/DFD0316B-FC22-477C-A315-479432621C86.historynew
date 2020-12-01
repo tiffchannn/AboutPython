@@ -1,0 +1,15 @@
+ls
+git clone https://github.com/tiffchannn/hrla39-react-components.git
+ls
+cd hrla39-react-components
+code .
+cd ~
+ls
+git clone https://github.com/tiffchannn/hrla39-recast.ly.git
+ls
+cd hrla39-recast.ly
+git remote add alphina https://github.com/alphinaa/hrla39-recast.ly
+git remote add upstream https://github.com/hackreactor/hrla39-recast.ly.git
+npm install
+npm install -g babel-cli
+babel . --out-dir compiled --presets=react --ignore=node_modules,compiled --source-maps inline

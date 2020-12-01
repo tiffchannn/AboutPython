@@ -1,0 +1,17 @@
+ls
+cd hrla39-recursion-review
+git pull pair master
+git remote add pair https://github.com/timkang93/hrla39-recursion-review.git
+git remote add upstream https://github.com/hackreactor/hrla39-recursion-review.git
+git status
+git pull pair master
+git push origin master
+git pull pair master
+git push origin master
+git status
+git pull pair master
+git push origin master
+git status
+git status
+git pull pair master
+git pull pair master

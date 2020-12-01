@@ -1,0 +1,33 @@
+ls
+cd hrla39-recast.ly
+code .
+code .
+code .
+git pull alphia master
+git pull alphina master
+code .
+git pull alphina master
+ls
+git remote add upstream https://github.com/hackreactor/hrla39-recast.ly.git
+git checkout
+git pull alphina master
+git checkout HEAD^ file/to/overwrite
+git reset --hard
+git pull alphina master
+git status
+git add .
+git status
+git git restore --staged package-lock.json
+git restore --staged package-lock.json
+git status
+git reset
+git status
+git status
+git add .
+git commit -m "added packagelock file"
+git status
+git pull pair master
+git pull alphina master
+git push origin master
+git status
+code .

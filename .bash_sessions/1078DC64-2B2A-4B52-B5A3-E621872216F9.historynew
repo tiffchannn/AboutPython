@@ -1,0 +1,14 @@
+nvm install 6.11.2
+npm install -g git+https://github.com/hackreactor/liberator.git
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+command -v nvm
+npm install -g git+https://github.com/hackreactor/liberator.git
+Configuration
+nvm install 6.11.2
+npm install -g git+https://github.com/hackreactor/liberator.git
+liberate hrla39-a-synchronous-swim
+liberate --hackreactor hrla39-a-synchronous-swim
+liberate --hackreactor hrla39-beesbeesbees
+liberate --hackreactor hrla39-chatterbox-client hrla39-cruddy-todo hrla39-data-structures hrla39-databases hrla39-fullstack-review
+liberate --hackreactor hrla39-javascript-koans hrla39-n-queens hrla39-react-components hrla39-recast.ly hrla39-recursion-review hrla39-sqool hrla39-subclass-dance-party hrla39-underbar-review
+liberate --hackreactor hrla39-promises 

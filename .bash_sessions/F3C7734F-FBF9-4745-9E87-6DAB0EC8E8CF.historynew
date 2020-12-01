@@ -1,0 +1,83 @@
+ls
+cd git_tutorial
+ls work
+ls hello
+cd hello
+ls hello
+ls work
+ls hello
+cd hello
+ls work
+cd hello
+cd
+cd git_tutorial
+cd work
+cd hello
+git status
+git hist
+git tag deleted
+git reset --hard v1
+git hist
+git hist --all
+git tag -d deleted
+git hist --all
+git add hello.rb
+git commit -m "Add an author comment"
+git add hello.rb
+git commit --amend -m "Add an author/email comment"
+git hist
+mkdir lib
+git mv hello.rb lib
+git status
+git commit -m "Moved hello.rb to lib"
+gem install rake
+ls -C .git
+ls -C .git/objects
+ls -C .git/objects/<dir>
+s -C .git/objects/<dir>
+s -C .git/objects/0c
+s -C .git/objects/ad
+ls s -C .git/objects/0c
+ls -C .git/objects/0c
+cat .git/config
+git hist --max-count=1
+git cat-file -t 97610bc
+git cat-file -p 97610bc
+git cat file -p 9a1f656
+git cat-file -p 9a1f656
+git cat-file -p 2a6e4d
+git cat-file -p 684f597
+git checkout -b greet
+git status
+git add lib/greeter.rb
+git add lib:gretter.rb
+git add lib/greeter.rb
+git status
+git add lib/greeter.rb
+cd work
+ls
+ls
+cd
+pwd
+ls
+ls git_tutorial
+ls work
+cd work
+ls
+ls git_tutorial
+ls work
+cd work
+ls hello
+cd hello
+cd git_tutorial
+cd work
+cd hello
+cd work
+git clone hello cloned_hello
+cd work
+cd work
+ls
+ls
+cd git_tutorial
+ls work
+cd work

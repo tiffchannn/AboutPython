@@ -1,0 +1,8 @@
+xcode-select --install
+git --version
+git config --global user.name “tiffchannn”
+git config --global user.email "tiffany.yi.chan@gmail.com"
+git config --global user.name
+git config --global user.email
+mkdir /Users/[tiffchannn]/Desktop/Tools/Git/NewFolder
+mkdir /Users/tiffchannn/Desktop/Tools/Git/NewFolder

@@ -1,0 +1,14 @@
+ls
+git clone https://github.com/tiffchannn/hrla39-subclass-dance-party.git
+ls
+cd hrla39-subclass-dance-party
+code .
+code .
+git status
+code .
+git remote
+git remote add tracy https://github.com/enobot/hrla39-subclass-dance-party.git
+git remote
+git remote add upstream https://github.com/hackreactor/hrla39-subclass-dance-party.git
+git remote
+code .

@@ -1,0 +1,11 @@
+ls
+git clone https://github.com/tiffchannn/hrla39-chatterbox-client.git
+ls
+cd hrla39-chatterbox-client
+code .
+git remote add paul https://github.com/PaulSoonMinChoi/hrla39-chatterbox-client
+cd ~
+cd hrla39-toy-problems
+git checkout master
+git pull upstream master
+code .

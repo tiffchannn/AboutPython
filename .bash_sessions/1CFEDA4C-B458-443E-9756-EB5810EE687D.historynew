@@ -1,0 +1,12 @@
+ls
+git clone https://github.com/tiffchannn/hrla39-beesbeesbees.git
+ls
+git remote add upsteam https://github.com/hackreactor/hrla39-beesbeesbees.git
+ls
+cd hrla39-beesbeesbees
+git remote add upsteam https://github.com/hackreactor/hrla39-beesbeesbees.git
+code .
+npm install
+git status
+brew install node
+npm install

@@ -1,0 +1,501 @@
+git add spec/part2.js
+git commit -m "Successfully passed tests for contains, every and some"
+git add src/underbar.js
+git commit -m "Successfully passed tests for contains, every and some"
+git push origin master
+git status
+git add src/underbar.js 
+git commit -m "Successfully completed tests for extend, defaults, once, some of memoize"
+git status
+git commit -m "Successfully completed tests for extend, defaults, once, some of memoize"
+git status
+git commit -m "Successfully completed tests for extend, defaults, once, some of memoize"
+git status
+git add spec/part2.js
+git commit -m "Successfully modified tests for extend, defaults, once, some of memoize"
+git push origin master
+git staus
+git status
+git diff
+git commit -m "Minor changes to src file"
+git add src/underbar.js
+git commit -m "Minor changes to src file"
+git status
+git push origin master
+git staus
+git status
+curl -s https://raw.githubusercontent.com/reactorcore/pomander/master/bin/install | bash
+npm start
+git clone https://github.com/tiffchannn/hrla39-self-assessment-week-00-v4.git
+ls
+cd hrla39-self-assessment-week-00-v4
+code .
+git status
+git add n-times/n-times.js
+git commit -m "Added some pseudocode, and testing out undefined case"
+git status
+git add recursion-total-sales/recursion-total-sales.js
+git commit -m "Added pseudocode to outline plan"
+git push origin master
+git status
+git add README.md
+git commit -m "Added self-grade"
+git add recursion-total-sales/recursion-total-sales.js
+git commit -m "Started coding out function based on pseudocode"
+git push origin master
+ls
+git clone https://github.com/tiffchannn/hrla39-data-structures.git
+ls
+git remote add upstream https://github.com/hackreactor/hrla39-data-structures.git
+git checkout -b solo
+cd hrla39-data-structures
+git remote add upstream https://github.com/hackreactor/hrla39-data-structures.git
+git checkout -b solo
+code .
+git status
+git checkout master
+git remote add pair https://github.com/JustinMurakami/hrla39-data-structures.git
+git remote add upstream https://github.com/hackreactor/hrla39-data-structures.git
+code .
+npm start
+curl -s https://raw.githubusercontent.com/reactorcore/pomander/master/bin/install | bash
+git status
+git add sprint-one/src/functional/queue.js
+git commit -m "Added notes to help with future pseudocode"
+git status
+git add sprint-one/src/functional/stack.js
+git commit -m "Added pseudocode and started implementing code for push"
+git status
+git add sprint-one/src/functional/stack.js
+git commit -m "Added pseudocode and started implementing code for push"
+git status
+git push origin solo
+git status
+git add sprint-one/src/functional/queue.js
+git status
+git commit -m "Successfully passed tests for fuctional queue"
+git add sprint-one/src/functional/stack.js
+git commit -m "Successfully passed tests for function stack"
+git push origin solo
+git status
+git add sprint-one/src/functional-shared/stack.js
+git commit -m "Passed all tests and implemented code for dunction shared stack"
+git status
+git commit -m "Passed all tests and implemented code for dunction shared stack"
+git add  sprint-one/src/functional-shared/stack.js
+git commit -m "Fixed pomander issue with indentation"
+git status
+git add sprint-one/src/functional/queue.js
+git commit -m "Passed all tests and implemented code for functional queue"
+git status
+git add sprint-one/src/functional-shared/queue.js
+git commit -m "Working on modifying code to pass failed tests"
+git push origin solo
+git status
+git add sprint-one/src/functional-shared/queue.js
+git status
+git commit -m "Made revisions to code, however tests say queueMethods.enqueue in not a function"
+git status
+git add sprint-one/src/functional-shared/stack.js
+git commit -m "Made minor revisions, added some comments about failing test for prior code used"
+git status
+git push origin solo
+git status
+git add sprint-one/src/prototypal/stack.js
+git commit -m "Successfully implemented code and passed tests for prototypal stack"
+git status
+git commit -m "Successfully implemented code and passed tests for prototypal stack"
+git commit -m "Successfully implemented code and passed tests for prototypal stack"
+git status
+git add sprint-one/src/prototypal/stack.js
+git commit -m "Successfully implemented code and passed tests for prototypal stack"
+git status
+git add sprint-one/src/prototypal/queue.js
+git commit -m "Started implementing code, however found failed tests which say queue.enqueue is not a function"
+git status
+git push origin solo
+git status
+git status
+git status
+git add
+git status
+git add sprint-one/src/prototypal/stack.js
+git commit -m "Added some comments, all tests successfully passed"
+git push origin solo
+git status
+git add sprint-one/src/functional-shared/queue.js
+git status
+git commit -m "Modified code to pass all tests for functional shared queue"
+git status
+git commit -m "Modified code to pass all tests for functional shared queue"
+git add sprint-one/src/prototypal/queue.js
+git commit -m "Implemented code and successfully passed tests for protoypal queue"
+git status
+git commit -m "Implemented code and successfully passed tests for protoypal queue"
+git status
+git add sprint-one/src/prototypal/queue.js
+git status
+git commit -m "Implemented code and successfully passed tests for protoypal queue"
+git status
+git add sprint-one/src/functional-shared/queue.js
+git commit -m "Updated code and all tests pass for functional shared queue"
+git status
+git push solo origin
+git push origin solo
+git staus
+git status
+git add sprint-one/src/pseudoclassical/queue.js
+git commit -m "Implemented code and passed all tests for pseudoclassical queue"
+git status
+git commit -m "Implemented code and passed all tests for pseudoclassical queue"
+git add sprint-one/src/pseudoclassical/queue.js
+git commit -m "Made minor changes due to pomander"
+git status
+sprint-one/src/pseudoclassical/stack.js
+git add sprint-one/src/pseudoclassical/stack.js
+git commit -m "Implemented code and passed all tests for pseudoclassical stack"
+git status
+git commit -m "Implemented code and passed all tests for pseudoclassical stack"
+git status
+add sprint-one/src/pseudoclassical/stack.js
+git add sprint-one/src/pseudoclassical/stack.js
+git commit -m "Made minor changes, added some comments"
+git push origin solo
+git status
+git add sprint-one/src/pseudoclassical/queue.js
+git commit -m "Added reference notes"
+git status
+git push origin solo
+git staus
+git status
+git add sprint-one/src/pseudoclassical/queue.js
+git commit -m "Modified minor changes and comments"
+git status
+sprint-one/src/es6/queue.js
+git add sprint-one/src/es6/queue.js
+git commit -m "Successfully implemented code and passed all tests for ES6 queue"
+git status
+git commit -m "Successfully implemented code and passed all tests for ES6 queue"
+git status
+git add sprint-one/src/es6/queue.js
+git commit -m "Fixed pomander issues with extra semicolon"
+git status
+git add sprint-one/src/es6/stack.js
+git commit -m "Successfully implemented code and passed all tests for ES6 stack"
+git status
+git add sprint-one/src/es6/stack.js
+git commit -m "Updated code to fix pomander issues"
+git status
+git add sprint-one/spec/specs.js
+git status
+git push origin solo
+git status
+git status
+git status
+git add n-times/n-times.js
+git commit -m "Reconfigured code for nTimes"
+git status
+git push origin master
+code .
+git status
+git add sprint-two/src/graph.js
+git commit -m "Successfully passed tests for graph"
+git status
+git commit -m "Successfully passed tests for graph"
+git commit -m "Successfully passed tests for graph"
+git status
+git add sprint-two/src/graph.js
+git commit -m "Modified indentations due to pomander"
+git add sprint-two/src/hashTable.js
+git commit -m "Successfully passed tests for hash table"
+git status
+git commit -m "Successfully passed tests for hash table"
+git add sprint-two/src/hashTable.js
+git commit -m "Fixed indentations due to pomander"
+git status
+git add sprint-two/src/linkedList.js
+git commit -m "Successfully passed all tests for linked list" 
+git add -A
+git commit -m "Successfully passed tests"
+git status
+git push origin master
+git push pair master
+git status
+git add sprint-two/src/binarySearchTree.js
+git commit -m "Started modifying and implementing code for insert"
+git status
+git commit -m "Started modifying and implementing code for insert"
+git add sprint-two/src/binarySearchTree.js
+git commit -m "Started modifying and implementing code for insert"
+git push origin master
+git push pair master
+git status
+git add sprint-two/src/tree.js
+git commit -m "Successfully passed tests for tree"
+git status
+git commit -m "Successfully passed tests for tree"
+git commit -m "Successfully passed tests for tree"
+git push origin master
+git push pair master
+ls
+git clone https://github.com/tiffchannn/hrla39-self-assessment-week-01-v3.git
+git status
+ls
+cd hrla39-self-assessment-week-01-v3/
+code .
+code .
+code .
+code .
+git status
+git add
+git add tree-map/tree-map.js
+git commit -m "Completed pseudocode, however did not successfully implement working code"
+git status
+git push origin master
+git status
+git add README.md
+git commit -m "Included self grade"
+git status
+git push origin master
+ls
+cd 
+cd hrla39-self-assessment-week-00-v4
+code.
+code .
+code .
+code .
+code .
+git status
+git add src/Grub.js
+git commit -m "Implemented age, color, food properties and eat method to Grub"
+git status
+git push origin master
+git status
+git add src/Bee.js
+git commit -m "Implemented call superclass, set constructor and protoype. Still working on inheritance from Grub"
+git status
+git push origin master
+git status
+git add src/Grub.js
+git commit -m "Made some minor changes to eat method"
+git add  src/Bee.js;
+git commit -m "Added in values for each property"
+git push origin master
+git status
+git add src/Bee.js
+git commit -m "Made some minor changes to code"
+git status
+git add src/ForagerBee.js
+git commit -m "Implemented adding properties and methods"
+git status
+git add src/Grub.js
+git commit -m "Modified comments"
+git status
+git add src/HoneyMakerBee.js
+git commit -m "Implemented subclass and added makeHoney and giveHoney methods"
+git status
+git push origin master
+git status
+git add src/Bee.js
+git commit -m "Updated eat function"
+git status
+src/Grub.js
+git commit -m "Made minor style changes"
+git status
+git add src/Grub.js
+git commit -m "Updated eat function"
+git status
+git add src/ForagerBee.js
+git commit -m "Successfully passed all tests"
+git status
+git add src/HoneyMakerBee.js
+git commit -m "Successfully passed all tests"
+git status
+git add src/RetiredForager.js
+git commit -m "Successfully passed all tests"
+git status
+git push origin master
+ls
+cd hrla39-subclass-dance-party
+code .
+code .
+git status
+git add n-times/n-times.js
+git commit -m "Updated code to successfully implement"
+git add recursion-total-sales/recursion-total-sales.js
+git status
+git push origin master
+git add recursion-total-sales/recursion-total-sales.js
+git commit -m "Updated code to successfully implement"
+git status
+git push origin master
+git status
+git remote
+git add rockPaperScissors/rockPaperScissors.js
+git commit -m "Successfully implemented working code for rockPaperScissors repo"
+git checkout master
+git pull upstream master
+git status
+git push origin master
+git status
+git add rockPaperScissors/rockPaperScissors.js
+git commit -m "Made adjustment to code to pass extra credit tests"
+git push origin master
+ls
+git clone https://github.com/tiffchannn/hrla39-n-queens.git
+ls
+cd hrla39-n-queens
+code .
+git remote add nick https://github.com/nickrotondo/hrla39-n-queens.git
+git remote add upstream https://github.com/hackreactor/hrla39-n-queens.git
+npm start
+curl -s https://raw.githubusercontent.com/reactorcore/pomander/master/bin/install | bash
+npm install
+code .
+git pull origin master
+git pull nick master
+git status
+code .
+ls
+cd 
+cd hrla39-toy-problems
+git remote add upstream https://github.com/hackreactor/hrla39-toy-problems.git
+git checkout master
+git pull upstream master
+git status
+code .
+git status
+git add evenOccurrence/evenOccurrence.js
+git commit -m "Implemented code for evenOccurrence"
+git push origin master
+ls
+cd hrla39-n-queens
+code .
+code .
+cd~
+cd /
+ls
+cd
+ls
+cd hrla39-n-queens
+code .
+ls
+cd hrla39-n-queens
+code .
+git pull nick master
+ls
+cd hrla39-n-queens
+git pull nick master
+git push origin master
+ls
+cd tree-map
+ls
+node tree-map.js 
+node 
+node tree-map.js 
+node tree-map.js 
+node tree-map.js 
+ls
+cd ~
+ls
+cd hrla39-self-assessment-week-01-v3 
+git status
+git add tree-map/tree-map.js
+git commit -m "Updated code to successfully implement mapping function for tree"
+git status
+git add tree-map/tree-map.js
+git commit -m "Updated code to successfully implement mapping function for tree"
+git push origin master
+git status
+git add hashTableResizing/hashTableResizing.js 
+git commit -m "Implemented code for hashTableResizing"
+git push origin master
+git status
+git add hashTableResizing/hashTableResizing.js 
+git commit -m "Updated code to include resizing"
+git push origin master
+ls
+cd hrla39-toy-problems
+git checkout master
+git pull upstream master
+code .
+git status
+git status
+git add .
+git commit -m "Implemented push, pop, size and min functions for Stack"
+git push origin master
+code .
+ls
+cd hrla39-data-structures/
+code.
+code .
+git status
+git add .
+git commit -m "Identified time complexity for all functions within algo-time-complexity"
+git status
+git add js-inheritance-pseudo-classical-alt/js-inheritance-pseudo-classical-alt.js
+git commit -m "Started reconfiguring functions into pseudoclassical instantiation"
+git status
+git add chat-client-fixme-components/js/MessagesView.js
+git commit -m "Added pseudocode, unsuccessful in implementing code"
+git status
+git add README.md
+git commit -m "Added self-grading"
+git push origin master
+code .
+code .
+code .
+git status
+git add .
+git commit -m "Reconfigured makeHorse and makeFlyingHorse to utilize subclassing"
+git status
+git push origin master
+code .
+code .
+ls
+git clone HRLA39 Tiffany Chan is inviting you to a scheduled Zoom meeting.
+Topic: HRLA39 Tiffany Chan's Personal Meeting Room
+
+Join Zoom Meeting
+https://us04web.zoom.us/j/4396045586?pwd=OC9RakFLTlV0RmlJa0ZDS0VpVE51UT09
+
+Meeting ID: 439 604 5586
+Passcode: 3cruvq
+
+:wq
+npm install -g live-server
+live-server
+git status
+git add .
+git commit -m "Implemented code for bubbleSort toy problem"
+git status
+git push origin master
+ls
+cd hrla39-toy-problems/
+git checkout master
+git pull upstream master
+code .
+npm install -g live-server
+git status
+git add .
+git commit -m "Implemented code for quicksort toy problem"
+git status
+git push origin master
+git status
+git add .
+git commit -m "Fixed function naming errors"
+git status
+git push origin master
+ls
+cd hrla39-toy-problems/
+git checkout master
+git pull upstream master
+code .
+code .
+code .
+ls
+git clone https://github.com/hackreactor/hrla39-recast.ly.git
+cd hrla39-grocery-list/
+git status
+git push jeff master
+code .

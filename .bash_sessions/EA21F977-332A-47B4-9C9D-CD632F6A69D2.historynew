@@ -1,0 +1,25 @@
+code .
+cd .
+cd ..
+ls
+cd multistepcheckout
+code .
+cd ..
+ls
+cd hrla39-grocery-list
+code .
+cd ..
+ls
+mkdir connectfour
+ls
+cd connectfour
+mkdir server
+ls
+mkdir client
+mkdir database
+code .
+code .
+cd ..
+ls
+cd hrla39-grocery-list
+code .

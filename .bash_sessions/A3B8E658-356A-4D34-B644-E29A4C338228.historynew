@@ -1,0 +1,12 @@
+ls
+cd hrla39-chatterbox-client/
+code .
+code .
+git pull paul master
+cd~
+cd ~
+ls
+git clone https://github.com/tiffchannn/hrla39-self-assessment-week-02-v5.git
+ls
+cd hrla39-self-assessment-week-02-v5
+code .

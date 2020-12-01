@@ -1,0 +1,6 @@
+git pull upstream master
+code .
+cd ..
+ls
+cd multistepcheckout
+code . 

@@ -1,0 +1,9 @@
+ls
+cd hrla39-self-assessment-week-03-v7
+ls
+code .
+git status
+git add .
+git commit -m "Updated code for react pond"
+git status
+git push origin master

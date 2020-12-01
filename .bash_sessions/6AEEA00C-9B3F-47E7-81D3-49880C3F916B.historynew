@@ -1,0 +1,122 @@
+git clone https://github.com/tiffchannn/seip2008-underbar.git
+git remote add upstream https://github.com/hackreactor/seip2008-underbar.git
+git pull upstream master
+ls
+cd seip2008-underbar
+curl -s https://raw.githubusercontent.com/hackreactor/precourse-pomander/master/bin/install | bash
+git status
+git diff
+git add src/underbar.js
+git commit -m "Updated Identity"
+git status
+git add src/underbar.js
+git diff
+git commit -m "Updated identity"
+git push origin master
+git status
+git diff
+git add .
+git commit -m "Updated tests for last"
+git add src/underbar.js
+git status
+git push origin master
+git status
+git status
+git diff
+git add src/underbar.js
+git commit -m "Updated tests for each"
+git status
+git diff
+git add src/underbar.js
+git commit -m "Updated tests for indexOf, filter, reject, uniq, map and pluck"
+git push master origin
+git push origin master
+git status
+git diff
+git add src/underbar.js
+git commit -m "Updated tests from indexOf through pluck"
+git status
+git checkout spec/part1.js
+git status
+git diff
+git add src/underbar.js
+git commit -m "Updated tests from indexOf through pluck"
+git status
+git diff
+git add src/underbar.js
+git status
+git commit -m "Updated tests for indexOf through pluck"
+git push origin master
+git status
+git commit-m "Updated tests for indexOf through pluck"
+git commit -m "Updated tests for indexOf through pluck"
+"--no-ignore"
+--no-ignore
+git status
+git diff
+git add spec/part1.js
+git status
+git commit -m "Updated tests from indexOf through pluck"
+ls -a
+rm .eslintrc.js
+git status
+git reset HEAD .DS_Store
+git reset HEAD spec/part1.js
+git status
+git status
+git commit -m "Updated tests for indexOf through pluck"
+git status
+git push origin master
+git status
+git diff
+git add src/underbar.js
+git status
+git commit -m "Updated reduce tests"
+git push origin master
+git status
+git status
+git status
+git status
+git diff
+git add src/underbar.js
+git status
+git commit -m " Assignment Completed"
+git status
+git push origin master
+git status
+git diff
+git add src/underbar.js
+git commit -m "Completed tests for contains and every"
+git status
+git push origin master
+git status
+git diff
+git add src/underbar.js
+git commit -m "Added pseudocode notes for clarity"
+git push origin master
+git status
+git diff
+git add src/underbar.js;
+git commit -m "Completed test for some"
+git status
+git push origin master
+git status
+git add src/underbar.js
+git diff
+git commit -m "Completed tests for extend and defaults"
+git status
+git push origin master
+git status
+git diff
+git add src/underbar.js
+git commit -m "Completed tests for memoize"
+git status
+git push origin master
+git status
+git diff
+git add src/underbar.js
+git status
+git commit -m "Assignment Complete"
+git satus
+git status
+git push origin master

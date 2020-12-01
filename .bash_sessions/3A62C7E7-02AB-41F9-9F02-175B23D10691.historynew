@@ -1,0 +1,4 @@
+ls
+cd hrla39-subclass-dance-party
+git pull pair master
+git pull tracy master

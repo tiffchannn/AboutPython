@@ -1,0 +1,24 @@
+ls
+git clone https://github.com/tiffchannn/hrla39-grocery-list.git
+ls
+cd hrla39-grocery-list
+git remote add jeff https://github.com/jeffh1cks/hrla39-grocery-list
+git remote add upstream https://github.com/hackreactor/hrla39-grocery-list.git
+code .
+git remote
+npm instal
+npm install
+git status
+git add .
+git commit -m "Working on List"
+git status
+git push origin master
+git push jeff master
+git status
+git add .
+git commit -m "Reconfigured List component and added event handlers for grocery item and quantity"
+git status
+git push origin master
+git push jeff master
+git push pair master
+git remote

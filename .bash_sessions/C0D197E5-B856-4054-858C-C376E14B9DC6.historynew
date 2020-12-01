@@ -1,0 +1,7 @@
+ls
+git clone https://github.com/tiffchannn/seip2008-recursion.git
+ls
+cd seip2008-recursion
+curl -s https://raw.githubusercontent.com/hackreactor/precourse-pomander/master/bin/install | bash
+ls
+ls

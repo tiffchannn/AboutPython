@@ -1,0 +1,19 @@
+[user]
+	name = tiffchannn
+	email = tiffany.yi.chan@gmail.com
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[core]
+	autocrlf = input
+	safecrlf = true
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	type = cat-file
+	dump = cat-file
+	hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short

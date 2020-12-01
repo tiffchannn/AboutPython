@@ -1,0 +1,7 @@
+pwd
+mkdir experiments
+cd experiments
+pwd
+echo 'Hello World' > newfile.txt
+ls
+rm newfile.txt

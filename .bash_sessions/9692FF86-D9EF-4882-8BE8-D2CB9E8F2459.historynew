@@ -1,0 +1,55 @@
+ls
+git clone https://github.com/tiffchannn/seip2008-twiddler.git
+$ xcode-select --install
+$ sudo xcode-select --reset
+$ xcode-select --install
+xcode-select --install
+git clone https://github.com/tiffchannn/seip2008-twiddler.git
+ls
+vscode seip2008 twiddler
+cd seip2008-twiddler
+git status
+git diff
+git add index.html
+git status
+git commit -m "Added tweet button and generated new tweet with timestamp"
+git status
+git push origin master
+git status
+git diff
+git add index.html
+git status
+git commit -m "Added navigation bar and fixed styling"
+git status
+git push origin master
+git status
+git diff
+git add index.html
+git commit -m "Updated jquery formatting"
+git statud
+git status
+git push origin master
+git status
+git add index.html
+git diff
+git status
+git push origin master
+git status
+git diff
+git commit -m "Fixed missing header and added user buttons"
+git add index.html
+git push origin master
+git status
+git status
+git add index.html
+git diff
+git status
+git add index.html
+git commit -m "Added username specific buttons, load user timeline"
+git status
+git push origin master
+git status
+git add index.html
+git diff
+git commit -m "Assignment completed"
+git push origin master
