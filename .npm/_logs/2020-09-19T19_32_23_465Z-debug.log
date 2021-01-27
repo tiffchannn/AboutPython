@@ -1,0 +1,34 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/Users/tiffanychan/.nvm/versions/node/v10.22.0/bin/node',
+1 verbose cli   '/Users/tiffanychan/.nvm/versions/node/v10.22.0/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   'bodyParser' ]
+2 info using npm@6.14.6
+3 info using node@v10.22.0
+4 verbose npm-session 627a91a0aaeb8cc6
+5 silly install loadCurrentTree
+6 silly install readLocalPackageData
+7 http fetch GET 404 https://registry.npmjs.org/bodyParser 249ms
+8 http fetch GET 404 https://registry.npmjs.org/bodyParser 147ms
+9 silly fetchPackageMetaData error for bodyParser@latest 404 Not Found - GET https://registry.npmjs.org/bodyParser - Not found
+10 timing stage:rollbackFailedOptional Completed in 1ms
+11 timing stage:runTopLevelLifecycles Completed in 771ms
+12 verbose stack Error: 404 Not Found - GET https://registry.npmjs.org/bodyParser - Not found
+12 verbose stack     at res.buffer.catch.then.body (/Users/tiffanychan/.nvm/versions/node/v10.22.0/lib/node_modules/npm/node_modules/npm-registry-fetch/check-response.js:114:15)
+12 verbose stack     at process._tickCallback (internal/process/next_tick.js:68:7)
+13 verbose statusCode 404
+14 verbose pkgid bodyParser@latest
+15 verbose cwd /Users/tiffanychan/packingList
+16 verbose Darwin 19.6.0
+17 verbose argv "/Users/tiffanychan/.nvm/versions/node/v10.22.0/bin/node" "/Users/tiffanychan/.nvm/versions/node/v10.22.0/bin/npm" "install" "bodyParser"
+18 verbose node v10.22.0
+19 verbose npm  v6.14.6
+20 error code E404
+21 error 404 Not Found - GET https://registry.npmjs.org/bodyParser - Not found
+22 error 404
+23 error 404 'bodyParser@latest' is not in the npm registry.
+24 error 404 Your package name is not valid, because
+25 error 404 1. name can no longer contain capital letters
+26 error 404 Note that you can also install from a
+27 error 404 tarball, folder, http url, or git url.
+28 verbose exit [ 1, true ]
